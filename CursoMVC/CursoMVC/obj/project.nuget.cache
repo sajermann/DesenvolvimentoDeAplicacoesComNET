@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZGAElxr7SCOAafCjXFOJrg+5JIvr7k5YiB5lytUo4bak7u2bTyGvcmsQ6QMcgzSwpWf3Fgz3t9vLGLUOcHPiPw==",
+  "dgSpecHash": "AN+xo7ein3hNlVTXFvG8BxixC3NlHcYrnSJtngsbuVTn5Vdezn/95q4Q3EmzKUrW6LkH73GcHeTvW+6u42zmCQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Alemao\\source\\repos\\CursoMVC\\CursoMVC\\CursoMVC.csproj",
+  "projectFilePath": "E:\\Programação\\Github\\DesenvolvimentoDeAplicacoesComNET\\CursoMVC\\CursoMVC\\CursoMVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alemao\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Alemao\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\3.1.8\\microsoft.aspnetcore.mvc.razor.extensions.3.1.8.nupkg.sha512",

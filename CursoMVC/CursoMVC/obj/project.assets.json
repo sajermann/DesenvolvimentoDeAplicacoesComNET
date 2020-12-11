@@ -8890,11 +8890,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alemao\\source\\repos\\CursoMVC\\CursoMVC\\CursoMVC.csproj",
+      "projectUniqueName": "E:\\Programação\\Github\\DesenvolvimentoDeAplicacoesComNET\\CursoMVC\\CursoMVC\\CursoMVC.csproj",
       "projectName": "CursoMVC",
-      "projectPath": "C:\\Users\\Alemao\\source\\repos\\CursoMVC\\CursoMVC\\CursoMVC.csproj",
+      "projectPath": "E:\\Programação\\Github\\DesenvolvimentoDeAplicacoesComNET\\CursoMVC\\CursoMVC\\CursoMVC.csproj",
       "packagesPath": "C:\\Users\\Alemao\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alemao\\source\\repos\\CursoMVC\\CursoMVC\\obj\\",
+      "outputPath": "E:\\Programação\\Github\\DesenvolvimentoDeAplicacoesComNET\\CursoMVC\\CursoMVC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alemao\\AppData\\Roaming\\NuGet\\NuGet.Config",

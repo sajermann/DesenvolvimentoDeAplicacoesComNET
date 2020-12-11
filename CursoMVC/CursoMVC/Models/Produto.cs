@@ -6,12 +6,13 @@ using System.Threading.Tasks;
 
 namespace CursoMVC.Models
 {
-    public class Categoria
+    public class Produto
     {
         public int Id { get; set; }
         [Display(Name = "Descrição")]
-        [Required(ErrorMessage = "O Campo descrição é obrigatório")]
         public string Descricao { get; set; }
-        public List<Produto> Produtos { get; set; }
+        [Range(1,10, ErrorMessage = "Valor fora da faixa")]
+        public int Quantidade { get; set; }
+        public Categoria Categoria { get; set; }
     }
 }
